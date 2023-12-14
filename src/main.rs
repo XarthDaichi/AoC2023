@@ -43,11 +43,12 @@ fn main() {
     // day3::day3_2();
 
     // DAY 4
-    day4::day4_1();
-    day4::day4_2();
+    // day4::day4_1();
+    // day4::day4_2();
 
     // DAY 5
-
+    day5::day5_1();
+    day5::day5_2();
 
     // DAY 6
 
